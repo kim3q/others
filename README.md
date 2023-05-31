@@ -10,3 +10,13 @@
 2. 둘
 
 ![image](https://github.com/kim3q/others/assets/26562974/aa17d750-1c59-432b-a436-556ee27ba1fb)
+
+```cpp
+#include <iostream>
+
+int main ()
+{
+  return 0;
+}
+  
+ ```
